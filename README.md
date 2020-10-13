@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hey, I'm Toriel Oreginau! 👋
+<!--### Hellooo! 👋 Welcome to my profile-->
+😄 I really like to learn </br>
+📫 How to reach me: <a href="https://discord.gg/S43CfDt" target='_blank'>Click Here</a></br>
+📚 I’m Currently studying React and React Native </br>
+
+🐦 <a href="https://twitter.com/toriiOreginau">Find me at Twitter</a> </br>
