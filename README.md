@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 <!--### Hellooo! 👋 Welcome to my profile-->
 😄 I really like to learn </br>
 📫 How to reach me: <a href="https://discord.gg/S43CfDt" target='_blank'>Click Here</a></br>
-📚 I’m currently studying React, React Native, C# C++ </br>
+📚 I’m currently studying front-end </br>
 
 🐦 <a href="https://twitter.com/toriiOreginau">Find me at Twitter</a> </br>
