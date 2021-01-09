@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 😄 I really like to learn </br>
 📫 How to reach me: <a href="https://discord.gg/S43CfDt" target='_blank'>Click Here</a></br>
 📚 I’m currently studying front-end </br>
+🖥 I’m working on TodoFire (a todo application)
 
 🐦 <a href="https://twitter.com/toriiOreginau">Find me at Twitter</a> </br>
