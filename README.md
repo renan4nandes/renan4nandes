@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Hey, I'm Toriel Oreginau! 👋
 <!--### Hellooo! 👋 Welcome to my profile-->
 😄 I really like to learn </br>
-📚 I’m currently studying front-end </br>
+📚 I’m currently studying front-end, but i like full-stack </br>
 🖥 I’m working on TodoFire (a todo application)
 
 🐦 <a href="https://twitter.com/toriiOreginau">Find me at Twitter</a> </br>
