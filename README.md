@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hey, I'm Toriel Oreginau! 👋
+## Hey, I'm Renan Fernandes! 👋
 <!--### Hellooo! 👋 Welcome to my profile-->
 😄 I really like to learn </br>
 📚 I’m currently studying front-end, but i like full-stack </br>
