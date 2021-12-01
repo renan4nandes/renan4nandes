@@ -9,4 +9,5 @@ fn main(){
 - 🔥 [TodoFire](https://todofire.ml) it is a project i made;
 - ✨ I like programming!
 - 🧑‍💻 I'm currently learning Rust Lang;
-- 👦🏻 14yo.
+- 👦🏻 14yo;
+- ✉ Email me at: contact.renan4nandes@gmail.com
