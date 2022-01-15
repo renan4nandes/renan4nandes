@@ -1,6 +1,8 @@
-```rust
-fn main(){
-  println!("Hello world!");
+```jsx
+function HelloWorld(){
+  return(
+    <h1>Hello World!</h1>
+  )
 }
 ```
 # Welcome to my profile!
@@ -8,7 +10,7 @@ fn main(){
 - 🇧🇷 I live in Brazil;
 - 🔥 [TodoFire](https://todofire.ml) is a project i made;
 - ✨ I like programming!
-- 🧑‍💻 I'm currently learning Rust Lang;
+- 🧑‍💻 I'm currently making the new TodoFire
 - 👦🏻 14yo;
 - ✉ Email me at: contact.renan4nandes@gmail.com
 
