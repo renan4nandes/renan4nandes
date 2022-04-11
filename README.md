@@ -3,8 +3,6 @@
 
 - 🌙 I’m currently working on **Luna**
 
-- 🌱 I’m currently learning **Rust Lang**
-
 - 📫 How to reach me **contact.renan4nandes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
