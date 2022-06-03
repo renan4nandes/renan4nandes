@@ -1,9 +1,7 @@
 <h1 align="center">My name is Renan</h1>
 <h3 align="center">Just a brazilian programmer that makes things</h3>
 
-- 📚 I’m learning **Go Lang**
-
-- 🌙 I’m currently working on **Luna**
+- ✉️ I’m currently working on **AnonyCard**
 
 - 📫 How to reach me **contact.renan4nandes@gmail.com**
 
